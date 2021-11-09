@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://mspoweruser.com/wp-content/uploads/2021/04/Sandstone-landscape.jpg");
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  width: 400px;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+#thirdDiv {
+  width: 500px;
+  height: 600px;
+  padding: 50px;
+  background-color: rgb(53, 175, 74);
+  border: 5px solid rgb(0, 0, 0);
+}
